@@ -1,4 +1,4 @@
-# chatbot-using-tensorflow
+chatbot-using-tensorflow
 ==========================
 This is a set of project containing chatbot building from scratch, starting with fundamentals.
 
